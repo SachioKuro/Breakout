@@ -22,7 +22,7 @@ and some libraries have to be installed
  - sudo apt install cmake libsdl2-dev libsdl2-image-dev
  
 ## Build steps
-
+ - rm -rf build
  - mkdir build && cd build
  - cmake ..
  - make
