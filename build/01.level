@@ -1,0 +1,9 @@
+15 5 5 15 5 5 3
+bb 3 4
+br 5 3
+bw 3 0
+bw bb bw bb bw
+bw br br br bw
+bb br x  br bb
+bw br br br bw
+bw bb bw bb bw
